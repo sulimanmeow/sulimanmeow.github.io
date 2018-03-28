@@ -10,6 +10,9 @@ body{
     
 }
 
+#site-name {
+    text-indent: -9999px;
+}
 .top-container{
     background: #e8e8e8;
 }
@@ -83,7 +86,7 @@ h2{
     color: #2e2e2e;
     margin-bottom: 20px;
 }
-h1{
+h2{
      
     padding-left: 30px;
     font-size: 28px;
